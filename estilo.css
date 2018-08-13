@@ -1,0 +1,50 @@
+@charset "utf-8";
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+}
+ul {
+	font-size: x-small;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+td {
+	font-size: small;
+	border: thin solid #CCCCCC;
+	height:25px;
+}
+.noborder {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height:25px;
+}
+
+.tinytext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #0066FF;
+}
+th {
+	font-size: x-small;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #999999;
+	text-align: center;
+}
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+}
